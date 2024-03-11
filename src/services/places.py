@@ -1,4 +1,5 @@
 import json
+from typing import Optional
 
 from models.places import PlaceModel
 
@@ -34,3 +35,12 @@ class PlacesService:
                 ]
 
         return result
+
+    def get_place(self, place_id: int) -> Optional[PlaceModel]:
+        """
+        Получение информации о любимом месте.
+        :param place_id: Идентификатор любимого места.
+        :return:
+        """
+        result = {place.id: place for place in self.get_places()}
+        return result.get(place_id, None)
