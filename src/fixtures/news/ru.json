@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 34,
+    "articles": [
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Хибины.ru",
+            "title": "Есть ли братья по разуму: Обнаружена планета с океаном и контрастной температурой — для кого подходят такие условия жизни - новости Хибины.ru - Хибины.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMirgFodHRwczovL3d3dy5oaWJpbnkucnUvbXVybWFuc2theWEtb2JsYXN0L25ld3MvaXRlbS1lc3RsaS1icmF0eWEtcG9yYXp1bXUtb2JuYXJ1amVuYS1wbGFuZXRhLXNva2Vhbm9tLWlrb250cmFzdG5veS10ZW1wZXJhdHVyb3ktZGx5YS1rb2dvLXBvZGhvZHlhdC10YWtpZS11c2xvdml5YS1qaXpuLTMyNTUxMy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T07:32:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Рязанский портал YA62.RU",
+            "title": "Ночью в Рязанской области зафиксирован аномальный холод - Рязанский портал YA62.RU",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiV2h0dHBzOi8veWE2Mi5ydS9uZXdzL3NvY2lldHkvbm9jaHl1X3ZfcnlhemFuc2tveV9vYmxhc3RpX3phZmlrc2lyb3Zhbl9hbm9tYWxueXlfa2hvbG9kL9IBAA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T07:13:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Спорт Mail.ru",
+            "title": "Овечкин загрустил по Кузнецову, но не остался без очков! Русский снайпер еще задаст жару в плей-офф - Спорт Mail.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vc3BvcnRtYWlsLnJ1L25ld3MvaG9ja2V5LW5obC82MDE0MTIxMi_SATJodHRwczovL3Nwb3J0bWFpbC5ydS9hbXAvbmV3cy9ob2NrZXktbmhsLzYwMTQxMjEyLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T07:09:26Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "NEWS.ru",
+            "title": "Россияне стали массово избавляться от долларов и евро - NEWS.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiTmh0dHBzOi8vbmV3cy5ydS9kZW5naS9yb3NzaXlhbmUtc3RhbGktbWFzc292by1pemJhdmx5YXRzeWEtb3QtZG9sbGFyb3YtaS1ldnJvL9IBUmh0dHBzOi8vbmV3cy5ydS9hbXAvZGVuZ2kvcm9zc2l5YW5lLXN0YWxpLW1hc3Nvdm8taXpiYXZseWF0c3lhLW90LWRvbGxhcm92LWktZXZyby8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T06:44:23Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Палач",
+            "title": "Семья 7 лет живет без смартфонов. Как это помогло в воспитании дочери? - Палач",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiZ2h0dHBzOi8vY2xpY2stb3ItZGllLnJ1LzIwMjQvMDMvc2VteWEtNy1sZXQtemhpdmV0LWJlei1zbWFydGZvbm92LWthay1ldG8tcG9tb2dsby12LXZvc3BpdGFuaWktZG9jaGVyaS_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T06:29:56Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Meduza",
+            "title": "Российские войска атаковали Украину беспилотниками. В ВСУ сообщили, что сбили 35 из 39 дронов - Meduza",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigAFodHRwczovL21lZHV6YS5pby9uZXdzLzIwMjQvMDMvMTAvcm9zc2l5c2tpZS12b3lza2EtYXRha292YWxpLXVrcmFpbnUtYmVzcGlsb3RuaWthbWktdi12c3Utc29vYnNjaGlsaS1jaHRvLXNiaWxpLTM1LWl6LTM5LWRyb25vdtIBhAFodHRwczovL21lZHV6YS5pby9hbXAvbmV3cy8yMDI0LzAzLzEwL3Jvc3NpeXNraWUtdm95c2thLWF0YWtvdmFsaS11a3JhaW51LWJlc3BpbG90bmlrYW1pLXYtdnN1LXNvb2JzY2hpbGktY2h0by1zYmlsaS0zNS1pei0zOS1kcm9ub3Y?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T06:12:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "PlayGround.ru",
+            "title": "Bethesda выпускает Pip-Boy с литым металлическим корпусом, дисплеем и функцией будильника - PlayGround.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiigFodHRwczovL3d3dy5wbGF5Z3JvdW5kLnJ1L2ZhbGxvdXRfNC9uZXdzL2JldGhlc2RhX3Z5cHVza2FldF9waXBfYm95X3NfbGl0eW1fbWV0YWxsaWNoZXNraW1fa29ycHVzb21fZGlzcGxlZW1faV9mdW5rdHNpZWpfYnVkaWxuaWthLTE2ODUzNjjSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T05:38:08Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "URA.RU",
+            "title": "Беспилотник ВСУ упал возле нефтебазы в Курске - URA.RU",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vdXJhLm5ld3MvbmV3cy8xMDUyNzQxNjM40gEkaHR0cHM6Ly9hbXAudXJhLm5ld3MvbmV3cy8xMDUyNzQxNjM4?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T05:23:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "URA.RU",
+            "title": "Петр Ян ворвался в UFC после годовой паузы. Фото - URA.RU",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vdXJhLm5ld3MvbmV3cy8xMDUyNzQxNjMz0gEkaHR0cHM6Ly9hbXAudXJhLm5ld3MvbmV3cy8xMDUyNzQxNjMz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T05:05:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "КТВ Луч, Сызрань",
+            "title": "От подгоревших тостов до мобильников: что вызывает рак, а что нет - КТВ Луч, Сызрань",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiY2h0dHBzOi8va3R2LXJheS5ydS9ub3Zvc3Qvb3RfcG9kZ29yZXZzaGloX3Rvc3Rvdl9kb19tb2JpbG5pa292X2NodG9fdnl6eXZhZXRfcmFrX2FfY2h0b19uZXQvMTM5NzM0L9IBYGh0dHBzOi8va3R2LXJheS5ydS9hbXAvb3RfcG9kZ29yZXZzaGloX3Rvc3Rvdl9kb19tb2JpbG5pa292X2NodG9fdnl6eXZhZXRfcmFrX2FfY2h0b19uZXQvMTM5NzM0Lw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T04:58:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Корреспондент",
+            "title": "Итоги 09.03: Удар по РФ и Лондон поможет с Taurus - Корреспондент",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWmh0dHBzOi8va29ycmVzcG9uZGVudC5uZXQvdWtyYWluZS80NjY5NjgyLXl0b2h5LTA5MDMtdWRhci1wby1yZi15LWxvbmRvbi1wb21vemhldC1zLVRhdXJ1c9IBVmh0dHBzOi8va29ycmVzcG9uZGVudC5uZXQvYW1wLzQ2Njk2ODIteXRvaHktMDkwMy11ZGFyLXBvLXJmLXktbG9uZG9uLXBvbW96aGV0LXMtVGF1cnVz?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T04:58:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Кубанские Новости",
+            "title": "До -10 градусов упадут ночные температуры в Краснодарском крае: в какие районы вернется зима - Кубанские Новости",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMihwFodHRwczovL2t1Ym5ld3MucnUvb2JzaGNoZXN0dm8vMjAyNC8wMy8xMC9kby0xMC1ncmFkdXNvdi11cGFkdXQtbm9jaG55ZS10ZW1wZXJhdHVyeS12LWtyYXNub2RhcnNrb20ta3JhZS12LWtha2llLXJheW9ueS12ZXJuZXRzeWEtemltYS_SAYsBaHR0cHM6Ly9rdWJuZXdzLnJ1L2FtcC9vYnNoY2hlc3R2by8yMDI0LzAzLzEwL2RvLTEwLWdyYWR1c292LXVwYWR1dC1ub2NobnllLXRlbXBlcmF0dXJ5LXYta3Jhc25vZGFyc2tvbS1rcmFlLXYta2FraWUtcmF5b255LXZlcm5ldHN5YS16aW1hLw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T04:37:29Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Ведомости",
+            "title": "Франция может создать альянс из готовых отправить войска на Украину стран - Ведомости",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vd3d3LnZlZG9tb3N0aS5ydS9wb2xpdGljcy9uZXdzLzIwMjQvMDMvMTAvMTAyNDQ0OC1mcmFudHNpeWEtbW96aGV0LXNvemRhdC1hbHlhbnPSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T04:26:58Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "КТВ Луч, Сызрань",
+            "title": "Кому из знаков Зодиака новолуние 10 марта несет новую жизнь, а для кого станет полным провалом - КТВ Луч, Сызрань",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMigQFodHRwczovL2t0di1yYXkucnUvbm92b3N0L2tvbXVfaXpfem5ha292X3pvZGlha2Ffbm92b2x1bmllXzEwX21hcnRhX25lc2V0X25vdnV5dV96aGl6bl9hX2RseWFfa29nb19zdGFuZXRfcG9sbnltX3Byb3ZhbG9tLzEzOTczMi_SAX5odHRwczovL2t0di1yYXkucnUvYW1wL2tvbXVfaXpfem5ha292X3pvZGlha2Ffbm92b2x1bmllXzEwX21hcnRhX25lc2V0X25vdnV5dV96aGl6bl9hX2RseWFfa29nb19zdGFuZXRfcG9sbnltX3Byb3ZhbG9tLzEzOTczMi8?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T04:14:20Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "URA.RU",
+            "title": "BBC: Залужный получил 53 млн долларов за отказ от поста президента Украины. Видео - URA.RU",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiIGh0dHBzOi8vdXJhLm5ld3MvbmV3cy8xMDUyNzQxNjI30gEkaHR0cHM6Ly9hbXAudXJhLm5ld3MvbmV3cy8xMDUyNzQxNjI3?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T03:26:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Pro Город Чебоксары",
+            "title": "Львы сумеют преодолеть все преграды, а Скорпионам следует опасаться конфликтов в семье - Pro Город Чебоксары",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiGmh0dHBzOi8vcGcyMS5ydS9uZXdzLzk0Mzg00gEA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T03:12:47Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "Новости на DVhab.ru",
+            "title": "Ошибаться нельзя: «Амур» проиграл «Металлургу» в пятом матче серии плей-офф - Новости на DVhab.ru",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiMWh0dHBzOi8vd3d3LmR2bm92b3N0aS5ydS9zcG9ydC8yMDI0LzAzLzEwLzE2NjEyMy_SAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T00:37:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "КХЛ",
+            "title": "«Трактор» может выбить «Салават Юлаев», пятая игра динамовской серии. Превью 10 марта: Новости - КХЛ",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMiLmh0dHBzOi8vd3d3LmtobC5ydS9uZXdzLzIwMjQvMDMvMTAvNTI4OTc0Lmh0bWzSAQA?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-10T00:05:52Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "УНИАН",
+            "title": "Наступление России под Авдеевкой теряет темп, и на это есть причины, - NYT - УНИАН",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CBMib2h0dHBzOi8vd3d3LnVuaWFuLm5ldC93YXIvbmFzdHVwbGVuaWUtcm9zc2lpLXBvZC1hdmRlZXZrb3ktdGVyeWFldC10ZW1wLWktbmEtZXRvLWVzdC1wcmljaGlueS1ueXQtMTI1Njg0NDAuaHRtbNIBmQFodHRwczovL3d3dy51bmlhbi5uZXQvd2FyL25hc3R1cGxlbmllLXJvc3NpaS1wb2QtYXZkZWV2a295LXRlcnlhZXQtdGVtcC1pLW5hLWV0by1lc3QtcHJpY2hpbnktbnl0LW5vdm9zdGktdnRvcnpoZW5peWEtcm9zc2lpLW5hLXVrcmFpbnUtYW1wLTEyNTY4NDQwLmh0bWw?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-09T19:49:00Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": "УНІАН",
+            "title": "Разговор Зеленского и Путина: Эрдоган предложил перемирие – Киев ответил. Итоги встречи в Турции - УНІАН",
+            "description": null,
+            "url": "https://news.google.com/rss/articles/CCAiCzlWTTBsb2JQLUtVmAEB?oc=5",
+            "urlToImage": null,
+            "publishedAt": "2024-03-09T19:30:02Z",
+            "content": null
+        }
+    ]
+}
